@@ -2,9 +2,9 @@
 ​Læs her hvordan der arbejdes med geografisk placering af behandlingskapaciteten i praksissektoren.
 
 ## Plan- og planlægningsområder
-Region Hovedstaden opdelt i 4 planområder; Nord, Midt, Syd og Byen, som svarer til hospitals- og psykiatriplanens optageområder. 
+Region Hovedstaden opdelt i 4 planområder; *Nord*, *Midt*, *Syd* og *Byen*, som svarer til hospitals- og psykiatriplanens optageområder. 
 
-Hvert planområde er inddelt i en række planlægningsområder, som svarer til kommunerne - med undtagelse af København, som er inddelt i 10 bydele. **Bornholm** hører også ind under planområde Byen.
+Hvert planområde er inddelt i en række planlægningsområder, som svarer til kommunerne - med undtagelse af København, som er inddelt i 10 bydele. **Bornholm** hører også ind under planområde **Byen**.
 
 Når en behandler tildeles en kapacitet, eller køber en praksis, er den knyttet til et specifikt planlægningsområde, hvor behandleren skal have sin praksis.
 
